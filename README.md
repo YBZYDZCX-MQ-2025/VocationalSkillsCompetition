@@ -1,2 +1,2 @@
-# The-24th-Vocational-Skills-Competition
+# VocationalSkillsCompetition
 24年职业技能比赛
