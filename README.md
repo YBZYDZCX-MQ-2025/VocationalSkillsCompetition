@@ -1,2 +1,2 @@
 # VocationalSkillsCompetition
-24年职业技能比赛
+职业技能比赛
