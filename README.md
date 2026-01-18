@@ -6,7 +6,6 @@
 ## 📂 历年项目列表
 
 ### 📅 2024年
-- **重点项目**：[基于星闪与边缘计算AI的稻田管理系统](file:///c:/Users/MQ/Desktop/VocationalSkillsCompetition/README.md)（智能化管理解决方案）
 - **参赛赛项**：
   - 智能电子
   - 集成电路
