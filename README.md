@@ -8,6 +8,8 @@
 
 ## 🌐 赛事官网 
  - https://sicsve.cdp.edu.cn/go-c2.htm
+ - https://scskills.cdp.edu.cn/#/secondSchoolTerminal/events/issueList
+ - https://www.vcsc.org.cn/
 
 ## 📈 赛事变化
 四川省职业技能大赛近年来呈现出明显的转型趋势，主要体现在以下几个方面：
